@@ -1,3 +1,26 @@
 # TA-BTNG23
 
 ![css](css/style.css)
+
+![image](img/anglonema.jpg)
+![image](img/contact-removebg-preview.png)
+![image](img/home-bg.jpg)
+![image](img/icon1.png)
+![image](img/icon2.jpg)
+![image](img/icon3.png)
+![image](img/icon4.png)
+![image](img/img2.jpeg)
+![image](img/img3.jpeg)
+![image](img/img4.jpeg)
+![image](img/img5.jpeg)
+![image](img/img6.jpeg)
+![image](img/img7.jpeg)
+![image](img/img8.jpeg)
+![image](img/img9.jpeg)
+![image](img/p1.jpg)
+![image](img/p2.jpg)
+![image](img/p3.jpeg)
+![image](img/payment.png)
+![image](img/vid.mp4)
+
+![index](index.html)
